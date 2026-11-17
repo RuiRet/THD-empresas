@@ -1,4 +1,4 @@
-# Restaurante El Boquerón
+# THD - FACTORY
 
 Autores:
 Ruben Arenas Mesa | 
