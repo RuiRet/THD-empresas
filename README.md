@@ -103,7 +103,7 @@ Las seis primeras tecnologías constituyen el catálogo principal y la biotecnol
 
 # 2. DISEÑO DE LAS SEIS PÁGINAS
 
-# PÁGINA 1 – index.html
+# PÁGINA 1 – index.html OSCAR
 ## Presentación de la empresa
 
 **Objetivo:** presentar la consultora, explicar a qué se dedica y mostrar qué problemas empresariales soluciona.
@@ -167,7 +167,7 @@ No es necesario que el formulario envíe información.
 
 ---
 
-# PÁGINA 2 – catalogo.html
+# PÁGINA 2 – catalogo.html  OSCAR
 ## Catálogo de tecnologías, productos y servicios
 
 **Objetivo:** explicar las tecnologías que utiliza la empresa y los servicios que comercializa.
@@ -225,7 +225,7 @@ Crear una tabla con estas columnas:
 
 ---
 
-# PÁGINA 3 – sostenibilidad.html
+# PÁGINA 3 – sostenibilidad.html  ANA BELÉN
 ## Tecnología y sostenibilidad
 
 **Objetivo:** demostrar cómo las tecnologías digitales pueden contribuir a reducir el impacto ambiental de los restaurantes.
@@ -303,7 +303,7 @@ Añadir una breve explicación de cómo contribuye la empresa a cada uno y un en
 
 ---
 
-# PÁGINA 4 – mercados.html
+# PÁGINA 4 – mercados.html  ANA BELÉN
 ## Nuevos mercados y tecnologías emergentes
 
 **Objetivo:** identificar oportunidades empresariales que surgen gracias a las THD.
@@ -367,7 +367,7 @@ Crear una tabla:
 
 ---
 
-# PÁGINA 5 – it-ot.html
+# PÁGINA 5 – it-ot.html Ruben
 ## Negocio, planta y caso de éxito
 
 **Objetivo:** explicar la diferencia entre las tecnologías aplicadas a la gestión empresarial y las utilizadas en los procesos físicos del restaurante.
@@ -449,7 +449,7 @@ Redactar un testimonio ficticio del responsable del restaurante explicando las m
 
 ---
 
-# PÁGINA 6 – informe.html
+# PÁGINA 6 – informe.html  Ruben
 ## Informe técnico
 
 **Objetivo:** reunir y organizar formalmente los conocimientos técnicos desarrollados en el resto de la web.
