@@ -1,7 +1,6 @@
-# THD - FACTORY
+# TurisNex
 
 Autores:
-Ruben Arenas Mesa | 
 Ana Belén Ruiz Retamero | 
 Oscar Santiago Valdivia
 
@@ -10,7 +9,7 @@ Curso: 1º DAM A
 Fecha: 17/11/2026
 
 # 1. Descripción del proyecto
-THD-Factoy es una empresa ficticia especializada en la consultoría e integración de Tecnologías Habilitadoras Digitales (THD)
+TurisNex es una empresa ficticia especializada en la consultoría e integración de Tecnologías Habilitadoras Digitales (THD)
 
 Este proyecto consiste en el diseño y desarrollo de una página web con el objetivo de ayudar a los negocios a digitalizar sus procesos, en este caso nos orientamos en el sector de la hostelería y la restauración. 
 
@@ -367,7 +366,7 @@ Crear una tabla:
 
 ---
 
-# PÁGINA 5 – it-ot.html Ruben
+# PÁGINA 5 – it-ot.html ANA BELEN
 ## Negocio, planta y caso de éxito
 
 **Objetivo:** explicar la diferencia entre las tecnologías aplicadas a la gestión empresarial y las utilizadas en los procesos físicos del restaurante.
@@ -449,7 +448,7 @@ Redactar un testimonio ficticio del responsable del restaurante explicando las m
 
 ---
 
-# PÁGINA 6 – informe.html  Ruben
+# PÁGINA 6 – informe.html  OSCAR
 ## Informe técnico
 
 **Objetivo:** reunir y organizar formalmente los conocimientos técnicos desarrollados en el resto de la web.
