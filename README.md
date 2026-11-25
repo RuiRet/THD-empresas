@@ -59,7 +59,7 @@ Se organiza en seis páginas principales:
         └── ...
 
 
-# 6. GUIÓN PARA HACER EL PROYECTO, POR CHATGPT
+# 6. GUIÓN PARA HACER EL PROYECTO
 
 
 # GUÍA DE DESARROLLO WEB – PROYECTO THD FACTORY
